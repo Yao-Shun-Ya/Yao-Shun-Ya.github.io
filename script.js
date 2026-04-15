@@ -68,19 +68,19 @@ function loadFeaturedVideos() {
         {
             title: "《風結び》生日回翻唱，“今朝梦醒与君别，遥盼清风寄相思”",
             date: "2026/03/17",
-            img: "./download/资源仓库文件/织风结/1.jpg",
+            img: "/Picture/covers/39_1.jpg",
             link: "https://www.bilibili.com/video/BV1AnwRzLENW"
         },        
         {
             title: "【新人投稿】《反乌托邦Pt.2》人类翻唱，其实一点都不新 ",
             date: "2026/03/03",
-            img: "./download/资源仓库文件/反乌托邦/1.jpg",
+            img: "/Picture/covers/40_1.jpg",
             link: "https://www.bilibili.com/video/BV1MkPJzcEd8"
         },      
         {
             title: "【电台】舜时听风-第一期 | 小狼的除夕夜，想陪着你一起度过。",
             date: "2026/02/16",
-            img: "./download/资源仓库文件/原风景/1.png", 
+            img: "/Picture/covers/38_1.png", 
             link: "https://www.bilibili.com/video/BV1PBZMBkE66"
         },
     ];
