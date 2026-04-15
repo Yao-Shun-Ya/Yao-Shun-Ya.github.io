@@ -8,103 +8,103 @@
 const MUSIC_DATA = [
     { 
         title: "A Seat For You", 
-        src: "/download/资源仓库文件/asfy/a seat for you.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/a_seat_for_you.wav" 
     },
     { 
         title: "Ginger", 
-        src: "/download/资源仓库文件/ginger/Ginger.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/ginger.wav" 
     },
     { 
         title: "下等马", 
-        src: "/download/资源仓库文件/下等马/下等马.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/xiadengma.wav" 
     },
     { 
         title: "On The Journy (不虚此行)", 
-        src: "/download/资源仓库文件/不虚此行/on the journy.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/on_the_journey.wav" 
     },
     { 
         title: "兔子先生", 
-        src: "/download/资源仓库文件/兔子先生/兔子先生.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/tuzi_xiansheng.wav" 
     },
     { 
         title: "卸妆", 
-        src: "/download/资源仓库文件/卸装/卸妆.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/xiezhuang.wav" 
     },
     { 
         title: "迎着台风去看海", 
-        src: "/download/资源仓库文件/台风看海/迎着台风去看海.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/taifeng_kanhai.wav" 
     },
     { 
         title: "ねぇねぇねぇ (呐呐呐)", 
-        src: "/download/资源仓库文件/呐呐呐/ねぇねぇねぇ。 (呐呐呐。).wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/na_na_na.wav" 
     },
     { 
         title: "喃喃萤火", 
-        src: "/download/资源仓库文件/喃喃萤火/喃喃萤火.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/nannanyinghuo.wav" 
     },
     { 
         title: "夏天的风", 
-        src: "/download/资源仓库文件/夏天的风/夏天的风.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/xia_tian_de_feng.wav" 
     },
     { 
         title: "屑屑", 
-        src: "/download/资源仓库文件/屑屑/屑屑.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/xiexie.wav" 
     },
     { 
         title: "ほろよい (微醺)", 
-        src: "/download/资源仓库文件/微醺/ほろよい（微醺）.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/horoyoi.wav" 
     },
     { 
         title: "我的悲伤是水做的", 
-        src: "/download/资源仓库文件/悲伤水/我的悲伤是水做的.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/beishang_shui.wav" 
     },
     { 
         title: "时光盲盒", 
-        src: "/download/资源仓库文件/时光盲盒/爻舜 - 时光盲盒.flac" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/shiguang_manghe.flac" 
     },
     { 
         title: "春水", 
-        src: "/download/资源仓库文件/春水/春水.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/chunshui.wav" 
     },
     { 
         title: "未行之路", 
-        src: "/download/资源仓库文件/未行之路/未行之路.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/weixingzhilu.wav" 
     },
     { 
         title: "消散对白", 
-        src: "/download/资源仓库文件/消散对白/消散对白.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/xiaosan_duibai.wav" 
     },
     { 
         title: "演 (feat.凯)", 
-        src: "/download/资源仓库文件/演/演_凯-爻.mp3" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/yan.mp3" 
     },
     { 
         title: "啊！美丽卡洛", 
-        src: "/download/资源仓库文件/美丽卡洛/啊！美丽卡洛.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/meili_kaluo.wav" 
     },
     { 
         title: "芭蕉夜雨", 
-        src: "/download/资源仓库文件/芭蕉夜雨/芭蕉夜雨.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/bajiaoyeyu.wav" 
     },
     { 
         title: "衡山路，宛平路", 
-        src: "/download/资源仓库文件/衡山路宛平路/衡山路，宛平路.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/hengshan_wanping.wav" 
     },
     { 
         title: "听夜雨", 
-        src: "/download/资源仓库文件/听夜雨remix和翻唱/听夜雨ult.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/tingyeyu_ult.wav" 
     },
     { 
         title: "原風景", 
-        src: "/download/资源仓库文件/原风景/原風景.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/yuanfengjing.wav" 
     },
     { 
         title: "织风结", 
-        src: "/download/资源仓库文件/织风结/织风结.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/zhifengjie.wav" 
     },
     { 
         title: "反乌托邦Pt.2", 
-        src: "/download/资源仓库文件/反乌托邦/反乌托邦Pt.2.wav" 
+        src: "https://github.com/Yao-Shun-Ya/Yao-Shun-Ya.github.io/releases/download/v1.0.0-assets/fawutuobang_pt2.wav" 
     }
     // 👉 复制上面的花括号块，粘贴到这里加新歌...
     // 注意：最后一个花括号后面不要加逗号，虽然加了也没事
